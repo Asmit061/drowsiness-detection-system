@@ -13,3 +13,5 @@ The objective of this intermediate Python project is to build a drowsiness detec
 - Install all the Required technologies by writing the commands given above in your command line
 - Run the Project by the following Line through Command Line :
 	- **python "drowsiness detection.py"**
+## ScreenShots : 
+![Alt Text](/image.jpg)
